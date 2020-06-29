@@ -18,8 +18,10 @@ Aplicação Front-end desenvolvida em ReactJS  para o clone da versão web respo
 
 <br><br>
 
-![000](https://user-images.githubusercontent.com/48495838/80150541-f3c75a80-858e-11ea-9045-a4630a821c96.jpg)
-<br><br>
+![drop](https://user-images.githubusercontent.com/48495838/86010247-82be7c00-b9f1-11ea-8385-62b03b042de8.jpg)
+
+
+<br>
 
 ## :rocket: Tecnologias
 <ul> 
