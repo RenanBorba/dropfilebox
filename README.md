@@ -24,7 +24,7 @@ Aplicação desenvolvida para o clone da versão web do Dropbox, voltada para se
 
 <div align="center">
 
-![dropf](https://user-images.githubusercontent.com/48495838/85319590-219a2400-b498-11ea-9f1f-072e5460e099.png)
+![home](https://user-images.githubusercontent.com/48495838/118139790-1a487580-b3de-11eb-870a-cdadb3fb81db.png)
 
 </div>
 
