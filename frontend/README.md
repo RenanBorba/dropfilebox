@@ -49,7 +49,7 @@ Aplicação Front-end desenvolvida em ReactJS  para o clone da versão web respo
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces:
+## :mega: ⬇ Abaixo as principais estruturas e interfaces:
 <br><br><br>
 
 ## src/routes.js
