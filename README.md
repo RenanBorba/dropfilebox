@@ -12,7 +12,7 @@
 
 <br>
 
-![drop](https://user-images.githubusercontent.com/48495838/85909084-7dddaa80-b7ee-11ea-85c2-ea161254e469.png)
+![logo](https://github.com/RenanBorba/carousel-web/assets/48495838/90ba72a3-844b-4a1d-9b8e-f88c98b1f341)
 
 </div>
 
